@@ -163,8 +163,7 @@ LAT/LON coordinates are coarsened for the privacy of community scientists in thi
 
 For more details, or if you use Fractional Richness in your work, please cite:
 
-Berman, L.; Schneider, F.; Stenglein, J.; Bemowski, R.; Dean, M.; Townsend, P. (in preparation). Fractional Richness: an index for camera trap networks. 
-
+Berman, L. M., Schneider, F. D., Pavlick, R. P., Stenglein, J., Bemowski, R., Dean, M., & Townsend, P. A. (2024). Fractional Richness: An index for camera trap networks. Ecological Indicators, 166, 112266.
 
 
 
